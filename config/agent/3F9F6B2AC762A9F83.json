@@ -1,0 +1,33 @@
+{
+	"result": "ok",
+	"body": {
+		"update_config": {
+			"download_version": 1117,	
+			"download_url": "https://itunes.apple.com/app/id1215288774", 
+			"update_version": 1335,		
+			"update_version_url": "http://update.vipva.net/baccarat/update/version.json", 
+			"update_urls": {
+				"default": "http://update.vipva.net/baccarat/update/default.zip",
+				"1325": "http://update.vipva.net/baccarat/update/1326.zip",
+				"1326": "http://update.vipva.net/baccarat/update/1326.zip",
+				"1327": "http://update.vipva.net/baccarat/update/1326.zip",
+				"1328": "http://update.vipva.net/baccarat/update/1329.zip",
+				"1329": "http://update.vipva.net/baccarat/update/1329.zip",
+				"1331": "http://update.vipva.net/baccarat/update/1329.zip",
+				"1334": "http://update.vipva.net/baccarat/update/1329.zip"
+			}
+		},
+		"client_config": {
+			"verify_version": [
+			],
+			"spread_id":[
+			],	
+			"IPIdx" : 1,	
+			"IPAry": [	
+				"116.62.172.63"
+			],
+			"netWork" : "http://update.vipva.net/ipConfig",
+			"getIpUrl" : "http://iptable.wapjl.cn:3786/api/iptable"
+		}
+	}
+}

@@ -1,0 +1,25 @@
+{
+	"result": "ok",
+	"body": {
+		"update_config": {
+			"download_version": 1117,	
+			"download_url": "", 
+			"update_version": 1321,		
+			"update_version_url": "http://update.vipva.net/baccarat/update_android/version.json", 
+			"update_urls": {
+				"default": "http://update.vipva.net/baccarat/update_android/default.zip",
+				"1320": "http://update.vipva.net/baccarat/update_android/1321.zip"
+			}
+		},
+		"client_config": {
+			"verify_version": [
+			],
+			"spread_id":[
+			],	
+			"IPIdx" : 1,	
+			"IPAry": [	
+				"121.43.169.50"
+			]
+		}
+	}
+}
