@@ -1,27 +1,3 @@
 {
-	"result": "ok",
-	"body": {
-		"update_config": {
-			"download_version": 100,	
-			"download_url": "https://itunes.apple.com/app/id1215288774", 
-			"update_version": 101,		
-			"update_version_url": "http://update.vipva.net/baccarat/update/version.json", 
-			"update_urls": {
-				
-			}
-		},
-		"client_config": {
-			"verify_version": [
-		
-			],
-			"spread_id":[
-			],	
-			"IPIdx" : 1,	
-			"IPAry": [	
-			],
-			"promptUrl" : "",
-			"netWork" : "http://update.vipva.net/ipConfig",
-			"getIpUrl" : "http://iptable.wapjl.cn:3786/api/iptable"
-		}
-	}
+	"result": "false"
 }
