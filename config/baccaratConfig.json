@@ -2,14 +2,12 @@
 	"result": "ok",
 	"body": {
 		"update_config": {
-			"download_version": 1117,	
+			"download_version": 100,	
 			"download_url": "https://itunes.apple.com/app/id1215288774", 
-			"update_version": 1342,		
+			"update_version": 101,		
 			"update_version_url": "http://update.vipva.net/baccarat/update/version.json", 
 			"update_urls": {
-				"default": "http://update.vipva.net/baccarat/update/default.zip",
-				"1340" : "http://update.vipva.net/baccarat/update/1341.zip",
-				"1341" : "http://update.vipva.net/baccarat/update/1342.zip"
+				
 			}
 		},
 		"client_config": {
@@ -17,11 +15,9 @@
 		
 			],
 			"spread_id":[
-				20002
 			],	
 			"IPIdx" : 1,	
 			"IPAry": [	
-				"server.vipva.net"
 			],
 			"promptUrl" : "",
 			"netWork" : "http://update.vipva.net/ipConfig",
